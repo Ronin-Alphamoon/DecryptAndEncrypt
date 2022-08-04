@@ -1,7 +1,7 @@
 package cipher;
 
 /**
- * @author Ronin
+ * @author Ronin-Alphamoon 
  */
 public class Encrption {
     
