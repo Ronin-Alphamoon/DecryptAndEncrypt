@@ -36,6 +36,7 @@ public class ProgramLayoutFrame extends javax.swing.JFrame {
                 new ProgramLayoutFrame().setVisible(true);
             }
         });
+        Encryption.Encryption();
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
